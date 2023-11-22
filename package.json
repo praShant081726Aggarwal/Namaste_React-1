@@ -2,7 +2,6 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "This is Namaste React by Prashant Aggarwal",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -12,5 +11,13 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/praShant081726Aggarwal/Namaste_React-1.git)"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
   }
 }
