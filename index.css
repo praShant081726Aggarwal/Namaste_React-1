@@ -1,3 +1,13 @@
 #heading {
     color: red;
 }
+
+#bottom{
+    color: blue;
+}
+
+.Title{
+    border: solid 2px green;
+    color: navy;
+    border-radius: 4px ;
+}
